@@ -1,9 +1,10 @@
 #header-container {
-    background: linear-gradient(rgba(0,0,0,0.5) 50%, rgba(57,56,56,0.5) 50%), url('./images/concert-background.jpg');
+    background: url('./images/elton-john-background.jpg');
+    /* linear-gradient(rgba(0,0,0,0.5) 50%, rgba(57,56,56,0.5) 50%),  */
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position-y: -16em;
-    min-height: 145px;
+    background-position-y: -19em;
+    min-height: 300px;
 }
 
 h1 {
@@ -15,9 +16,10 @@ h1 {
 }
 
 h2 {
-  text-align: center;
+  /* text-align: center; */
   color: white;
   font-family: 'Baloo Bhai', cursive;
+  margin-left: 1em;
 }
 
 #logo-span {

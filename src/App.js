@@ -11,7 +11,7 @@ class App extends Component {
           <h1>
             <span>via</span><span id="logo-span">go</span><span>go</span>
           </h1>
-          <h2>Elton John Events</h2>
+          <h2>Elton John Tickets</h2>
         </div>
         <EventsContainer/>
       </div>

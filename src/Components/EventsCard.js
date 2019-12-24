@@ -7,9 +7,9 @@ function EventsCard(props) {
       <Card.Content textAlign={"center"}>
         <Card.Header>{props.event.EventName} in {props.event.VenueCity}</Card.Header>
           <Card.Description>
-            {props.event.CalendarViewModel.MonthName} {props.event.CalendarViewModel.DayOfMonth}, {props.event.CalendarViewModel.Year}
+          <Icon name="calendar"/>{props.event.Date}
           </Card.Description>
-          <Button compact color="blue" active onClick={()=>props.toggleModal(props.event)}>
+          <Button compact color="olive" active onClick={()=>props.toggleModal(props.event)}>
             See Details <Icon name="arrow circle right"/>
           </Button>
       </Card.Content>
