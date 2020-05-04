@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-eventslist-app/static/css/main.87eb1ac3.chunk.css",
+    "main.js": "/react-eventslist-app/static/js/main.6cf7bf86.chunk.js",
+    "main.js.map": "/react-eventslist-app/static/js/main.6cf7bf86.chunk.js.map",
+    "runtime-main.js": "/react-eventslist-app/static/js/runtime-main.5b1cbaf7.js",
+    "runtime-main.js.map": "/react-eventslist-app/static/js/runtime-main.5b1cbaf7.js.map",
+    "static/js/2.efae118c.chunk.js": "/react-eventslist-app/static/js/2.efae118c.chunk.js",
+    "static/js/2.efae118c.chunk.js.map": "/react-eventslist-app/static/js/2.efae118c.chunk.js.map",
+    "index.html": "/react-eventslist-app/index.html",
+    "precache-manifest.678ea97dfd9da5fc3cb7f399dbd6fdb0.js": "/react-eventslist-app/precache-manifest.678ea97dfd9da5fc3cb7f399dbd6fdb0.js",
+    "service-worker.js": "/react-eventslist-app/service-worker.js",
+    "static/css/main.87eb1ac3.chunk.css.map": "/react-eventslist-app/static/css/main.87eb1ac3.chunk.css.map",
+    "static/js/2.efae118c.chunk.js.LICENSE": "/react-eventslist-app/static/js/2.efae118c.chunk.js.LICENSE",
+    "static/media/App.css": "/react-eventslist-app/static/media/elton-john-background.17ba2746.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b1cbaf7.js",
+    "static/js/2.efae118c.chunk.js",
+    "static/css/main.87eb1ac3.chunk.css",
+    "static/js/main.6cf7bf86.chunk.js"
+  ]
+}
