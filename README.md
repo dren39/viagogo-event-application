@@ -8,7 +8,7 @@ The application displays a list of events for a specific artist on page load. Us
 
 ## Installation
 
-This application requires having Node and React installed on your machine and best used with the Chrome browser.\
+This application requires having Node and React installed on your machine. For best use experience please use with Chrome browser.\
 Clone the repository and navigate to the root of the app file.\
 Run `npm install` in the terminal to install the require dependencies.\
 Run `npm start` in the terminal to start up the application.\
