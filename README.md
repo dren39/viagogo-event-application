@@ -1,6 +1,6 @@
 ## Introduction
 
-The Viagogo Event Application is a replication of the Viagogo ticket sales website, designed to display a list of events for an artist. The application was built using the React framework, JavaScript, Semantic UI React, custom CSS, and HTML.
+The Concert Ticket Application is a replication of the Viagogo ticket sales website, designed to display a list of events for an artist. The application was built using the React framework, JavaScript, Semantic UI React, custom CSS, and HTML.
 
 ## Functionality
 
